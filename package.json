@@ -1,6 +1,6 @@
 {
   "name": "ponsole",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "node console wrapper for adding color and icons",
   "main": "index.js",
   "repository": "https://github.com/nemanjan00/console",
