@@ -1,5 +1,5 @@
 {
-  "name": "console",
+  "name": "ponsole",
   "version": "0.0.0",
   "description": "node console wrapper for adding color and icons",
   "main": "index.js",
