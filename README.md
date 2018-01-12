@@ -1,4 +1,4 @@
-# console
+# ponsole
 
-node console wrapper for adding colors and icons
+pretty node console wrapper for adding colors and icons
 
