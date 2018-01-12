@@ -1,6 +1,6 @@
 # ponsole
 
-Pretty node console wrapper for adding colors and iconsi with middleware support. 
+Pretty node console wrapper for adding colors and icons with middleware support. 
 
 ## Install
 
